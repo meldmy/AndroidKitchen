@@ -1,0 +1,32 @@
+{
+  "orderDto": {
+    "orderId": 1276,
+    "sum": 6.98,
+    "orderDate": 1495576800000
+  },
+  "dishesDto": [
+    {
+      "dishId": 2,
+      "name": "Zucchipakoda",
+      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
+      "ingridients": 13,
+      "image": "images/zucchipakoda.png",
+      "price": 1.99,
+      "category": "APPETIZER",
+      "quantity": 1
+    },
+    {
+      "dishId": 1,
+      "name": "Uthapizza",
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
+      "ingridients": 1,
+      "image": "images/uthapizza.png",
+      "price": 4.99,
+      "category": "MAINS",
+      "quantity": 1
+    }
+  ],
+  "userNameDto": {
+    "name": "Test"
+  }
+}
